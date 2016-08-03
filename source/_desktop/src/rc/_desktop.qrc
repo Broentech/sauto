@@ -1,0 +1,14 @@
+<RCC>
+<qresource>
+	<file>images/OK.png</file>
+	<file>images/NOT_OK.png</file>
+	<file>images/green.png</file>
+	<file>images/off.png</file>
+	<file>images/red.png</file>
+	<file>images/yellow.png</file>
+	<file>images/switch-off.png</file>
+	<file>images/switch-on.png</file>
+	<file>images/start.png</file>
+	<file>images/stop.png</file>
+</qresource>
+</RCC>
